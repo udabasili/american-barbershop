@@ -1,40 +1,45 @@
-# American Barbershop
+# Responsive  Barbershop Template
 
-Welcome to the American Barbershop, a comprehensive solution for efficiently managing and organizing your barbershop business. This GitHub repository contains the source code and documentation for a user-friendly application designed to streamline various aspects of your barbershop operations.
+## [Visit](<https://udabasili.github.io/american-barbershop/>)
+
+![Screenshot 2023-05-22 at 08-42-17 Home](https://github.com/udabasili/american-barbershop/assets/33573587/1b9c36ed-f2f8-40ee-a383-a1b655d61a9c)
 
 ## Features
 
-- **Appointment Management:** Schedule and organize appointments effortlessly, providing your clients with a seamless booking experience.
+- Responsive Design
+- Service Menu
+- Online Booking System
+- Integrate a user-friendly online booking system that allows customers to schedule appointments easily.
+- Provide individual profiles for each barber, including their expertise, experience, and a gallery of their work.
+- Showcase a gallery of high-quality images representing the barbershop's interior, staff, and finished haircuts.
+- Clearly display contact information, including phone number, email, and a contact form for inquiries.
+- Integrate Google Maps to display the barbershop's location visually.
+- Include social media links and a feed to display the latest updates, promotions, and trends.
+- Feature an engaging "About Us" section with the barbershop's story, mission, and values.
+- Highlight ongoing promotions, discounts, or seasonal specials prominently on the homepage.
+- If relevant, include a blog section to share grooming tips, style trends, and industry news.
+- Implement a cohesive color scheme and typography that align with the barbershop's brand identity.
+- Customizable Styles
+- SEO-Friendly
 
-- **Customer Database:** Maintain a centralized customer database with detailed profiles, preferences, and visit history for personalized service.
+![Screenshot 2023-05-22 at 08-42-48 Services](https://github.com/udabasili/american-barbershop/assets/33573587/ea434cb3-0125-4847-8b68-85e0ed780d30)
+![Screenshot 2023-05-22 at 08-43-02 Shop](https://github.com/udabasili/american-barbershop/assets/33573587/ad7d4ce0-0e1d-43f5-a723-879aad1fe162)
 
-- **Staff Management:** Keep track of your barbers' schedules, performance, and availability to optimize staffing and enhance customer service.
-
-- **Inventory Control:** Monitor and manage your product inventory, ensuring that you never run out of essential barbering supplies.
-
-- **Billing and Invoicing:** Generate accurate bills and invoices for services rendered, providing transparency and convenience for both you and your clients.
-
-- **Reporting and Analytics:** Access insightful reports and analytics to make informed business decisions, track trends, and identify areas for improvement.
+Welcome to the American Barbershop, a comprehensive solution for efficiently managing and organizing your barbershop business. This GitHub repository contains the source code and documentation for a user-friendly application designed to streamline various aspects of your barbershop operations.
 
 ### Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript, React.js
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Authentication:** JSON Web Tokens (JWT)
-- **Version Control:** Git
+    - HTML
+    - CSS
+    - JavaScript
 
 ### Getting Started
 
 Follow these steps to get the American Barbershop up and running on your local machine:
 
-1. Clone the repository: `git clone https://github.com/your-username/BarberShop-Management-System.git`
-2. Navigate to the project directory: `cd BarberShop-Management-System`
-3. Install dependencies: `npm install`
-4. Configure the database connection in `config.js`.
-5. Start the application: `npm start`
-
-For more detailed instructions, refer to the [Documentation](docs/).
+1. Clone the repository: `git clone https://github.com/udabasili/american-barbershop.git`
+2. Navigate to the project directory: `american-barbershop`
+3. Make edits to the code as you see fit
 
 ### Contributing
 
