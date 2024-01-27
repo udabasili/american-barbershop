@@ -32,6 +32,7 @@ Welcome to the American Barbershop, a comprehensive solution for efficiently man
     - HTML
     - CSS
     - JavaScript
+    - php
 
 ### Getting Started
 
